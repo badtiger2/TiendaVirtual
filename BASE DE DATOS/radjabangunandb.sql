@@ -19,8 +19,8 @@ SET time_zone = "+00:00";
 --
 -- Base de datos: `radjabangunandb`
 --
-CREATE DATABASE IF NOT EXISTS `radjabangunandb` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `radjabangunandb`;
+CREATE DATABASE IF NOT EXISTS `sql5126796` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `sql5126796`;
 
 -- --------------------------------------------------------
 
