@@ -7,22 +7,21 @@
 	<div class="row">
 		<div class="span4">
 		<h4>Detalles de Contacto</h4>
-		<p>	<font color="red">Platea21</font> <font color="green">PLATEA21</font><br/> 
+		<p>	 <font color="green">Fitness Sales</font><br/> 
 			<br/><br/>
-			PLATEA21<br/>
-			PERU<br/>
-            Cel: 995530374<br />
-			Tacna<br/>
-			web:www.Platea21.com
+			Fitness Sales<br/>
+			Panama, colon<br/>
+            Plaza millenium, local B14<br />
+			Telefono: 473-1234<br/>
+			
 		</p>		
 		</div>
 			
 		<div class="span4">
 		<h4>Horario de Atencion</h4>
-			<h5> Lunes - Domingo</h5>
-			<p>08:00am - 09:00pm<br/><br/></p>
-			<h5>Domingos</h5>
-			<p>08:00am - 03:00pm<br/><br/></p>
+			<h5> Lunes - Sabado</h5>
+			<p>08:00am - 06:00pm<br/><br/></p>
+			
 			<br><br>
 		</div>
 <br><br><br><br>	

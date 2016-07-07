@@ -43,16 +43,23 @@
 	<div class="span9" id="mainCol">
     <ul class="breadcrumb">
 		<li><a href="?open=''">Inicio</a> <span class="divider">/</span></li>
-		<li class="active">Vision & Mision</li>
-		<li>Corporacion</li>
+		<li class="active">Mision & Vision</li>
+		
     </ul>
 	<h3> Sobre Nosotros</h3>	
-	<hr class="soft"/>
-	<h3><font color="red"></font> <font color="green">Platea21</font></h3><br/>
+	<hr class="soften"/>
+	<!--<h3><font color="red"></font> <font color="green">Fitness Sales</font></h3>
+	<hr class="soft"/> -->
+	
 	<p>
         <font face:'comic sans';></font></p>
-        
-      <p>Somos Platea21 una empresa dedicada al diseño web, promagracion de sistemas web informaticos, comercio electronico, banca y dinero digital, cuentas exchanger etc.</p>
+       
+      <h4>Mision</h4>	   
+      <p>Somos una empresa orientada a ofrecer la mejor calidad y variedad en productos del fitness brindándole al cliente nuestras mejores opciones de compra, contando con un local que posee un cómodo ambiente y seguridad, obteniendo de esta manera la confianza y lealtad del cliente y ofreciendo un estilo único de atención y calidad a los usuarios. </p>
+	  
+	  <br>
+	  <h4>Vision</h4>
+	  <p>Ser la cadena de tiendas de fitness que ofrezca la mejor calidad y variedad en servicios de venta, generar un valor agregado al desarrollo de los colaboradores y accionistas, fortaleciendo nuestra solidez por medio de la planeación y el trabajo en equipo. </p>
 
     <p></p>
 	
