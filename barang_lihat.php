@@ -82,8 +82,8 @@ else {
 <!-- ==================================================Header End====================================================================== -->
 	<div class="span9">
     <ul class="breadcrumb">
-    <li><a href="index.html">Inicio</a> <span class="divider">/</span></li>
-    <li><a href="products.html">Productos</a> <span class="divider">/</span></li>
+    <li><a href="index.php">Inicio</a> <span class="divider">/</span></li>
+    <li><a href="?open=Barang-Produk">Productos</a> <span class="divider">/</span></li>
     <li class="active">Detalles de Producto</li>
     </ul>
 	<div class="row">
