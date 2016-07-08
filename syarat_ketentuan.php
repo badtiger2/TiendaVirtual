@@ -43,11 +43,11 @@
 		<ul class="breadcrumb">
 			<li><a href="?open=''">Inicio</a><span class="divider">/</span></li>
 			<li class="active">Términos y condiciones</li>
-			<li>Empresa</li>
+			
 		</ul>
 		<h3>Términos y Condiciones</h3>
 		<hr class="soft">
-			<h3><font color="red">Platea21</font> <font color="green">SIT</font></h3><br/>
+			<h3><font color="red">Fitness</font> <font color="green">Sales</font></h3><br/>
 	<p>
         <font face:'comic sans';>En esta página se puede ver cómo las condiciones de uso están destinadas a usted como visitante o nuestros miembros. Si está de acuerdo con los términos establecidos puede seguir utilizando nuestro sitio y aferrarse a él como aparece aquí. Tampoco se puede seguir utilizando este sitio si usted no se siente de acuerdo con una o más condiciones.</font>
 </p>		
