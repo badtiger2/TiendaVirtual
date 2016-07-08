@@ -31,7 +31,7 @@
 		 </div> 
 	 </div>
 	 <hr class="soft">
-	<p class="pull-left">&copy;2016 <font color= "red"><b>Platea21</b></font> <font color="green"><b>Platea21</b></font> <font color="grey"><b>Tienda Online</b></font></p>
+	<p class="pull-left">&copy;2016 <font color= "red"><b>Fitnees Sales</b></font> <font color="green"><b>Fitnees Sales</b></font> <font color="grey"><b>Tienda Online</b></font></p>
 </div><!-- /container -->
 
 
