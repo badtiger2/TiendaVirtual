@@ -2,15 +2,26 @@
 session_start();
 include_once "library/inc.connection.php";
 include_once "library/inc.library.php";
+$profpic = "assets/img/bg.jpg";
 ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
+  
+  <style type="text/css">
+
+body {
+background-image: url('<?php echo $profpic;?>');
+}
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta charset="utf-8">
     <title>Fitness Sales</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Fitness Sales tienda online de productos fitness">
     <meta name="author" content="Fitness Sales">
+	
+
 	<!-- Less styles  
 	<link rel="stylesheet/less" type="text/css" href="less/bootsshop.less">
 	<script src="less.js" type="text/javascript"></script>
@@ -44,6 +55,7 @@ include_once "library/inc.library.php";
     <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png">
   </head>
 <body>
+
   <!-- Navbar
     ================================================== -->
 <div class="navbar navbar-fixed-top">
