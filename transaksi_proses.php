@@ -202,7 +202,7 @@ $(document).ready(function(){
                     <tr>
                         <td><strong>No</strong></td>
                         <td><strong>Nombre Productos</strong></td>
-                        <td><strong>Precio (S/.)</strong></td>
+                        <td><strong>Precio (B/.)</strong></td>
                         <td><strong>Cantidad</strong></td>
                         <td align="right"><strong>Total (S/).</strong></td>
                     </tr>
@@ -235,15 +235,15 @@ $(document).ready(function(){
                     <tr>
                         <td align="center" width="4%"><?php echo $nomor; ?></td>
                         <td align="center"><?php echo $myData['nm_barang']; ?></td>
-                        <td>S/. <?php echo format_angka($myData['harga']); ?></td>
+                        <td>B/. <?php echo format_angka($myData['harga']); ?></td>
                         <td> <?php echo $myData['jumlah']; ?></td>
-                        <td align="right">S/. <?php echo format_angka($subTotal); ?> </td>
+                        <td align="right">B/. <?php echo format_angka($subTotal); ?> </td>
                     </tr>
                     <?php } ?>
                     <tr>
                         <td colspan="3" align="right"><b>TOTAL :</b></td>
                         <td align="center" bgcolor="#F5F5F5"><?php echo $totalBarang; ?></td>
-                        <td align="right" bgcolor="#F5F5F5">S/. <?php echo format_angka($totalHarga); ?></td>
+                        <td align="right" bgcolor="#F5F5F5">B/. <?php echo format_angka($totalHarga); ?></td>
                     </tr>
                     
                     </tbody>

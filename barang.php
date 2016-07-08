@@ -87,7 +87,7 @@ while ($barangData = mysql_fetch_array($barangSql)) {
 			<img src="assets/products/<?php echo $barangData['file_gambar']; ?>" alt=""/>
 			</div>
 			<div class="span4">
-				<h3>Nuevo | S/.<?php echo format_angka($barangData['harga_jual']); ?></h3>				
+				<h3>Nuevo | B/.<?php echo format_angka($barangData['harga_jual']); ?></h3>				
 				<hr class="soft"/>
 				<h5>Nombre de Producto </h5>
 				<p>
