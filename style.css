@@ -64,7 +64,7 @@ hr.soften {margin: 8px 0 4px; background:#ddd;}
 .cart{border:1px solid #ddd;}
 .thumbnail>a{display:block; text-align:center}
 .thumbnail h5,.thumbnail p{text-align:center}
-.thumbnail{background:#fff;}
+/*.thumbnail{background:#fff;}*/
 .thumbnail {position:relative;border: 1px solid white;}
 /* Compair product page */
 .table td[align=right] {text-align: right;}
